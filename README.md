@@ -16,7 +16,7 @@ Bu kodu Cpanel veya Plesk gibi web sunucu yönetim paneli kullanarak çalıştı
 # Yapımcı
 Emre Karademir
 
-- Web sitesi: emrekarademir.com
+- Web sitesi: [emrekarademir.com]
 - GitHub: github.com/emrekarademir
 
 # Lisans
